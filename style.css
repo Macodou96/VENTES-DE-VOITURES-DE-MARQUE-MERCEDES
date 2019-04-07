@@ -1,0 +1,19 @@
+h1
+{
+	color: red;
+}
+
+body{
+	background-image:   url(https://i.pinimg.com/originals/bb/63/89/bb6389bb80895faa326b2d8b68e61e26.jpg);
+	background-attachment: fixed;
+	background-position:  center;
+	background-repeat: no-repeat;
+	background-size: 100% ;
+}
+
+li
+{color: white
+}
+h4{
+	border-image:url(https://img.autoplus.fr/picture/mercedes/classe-s-cabriolet-amg/1519845/Mercedes_Classe_S_Cabriolet_AMG_2017_76f1c-1200-800.jpg);
+}
